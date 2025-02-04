@@ -1,5 +1,5 @@
 import React from "react";
-
+// Header part 
 const Header = () => {
   return (
     <div className="flex w-full justify-between items-center p-4 bg-gray-100">
